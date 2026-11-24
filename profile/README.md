@@ -136,7 +136,7 @@ Every concept, rule, and fact pin is versioned. Models can change, but meaning n
 
 ## Related
 
-- **[SenseGraph](./README.md)**: the 6-stage query understanding pipeline that resolves user queries into grounded concepts and scoped retrieval.
+- **[SenseGraph](https://github.com/openagistack-sensegraph/.github/blob/main/profile/README.md)**: the 6-stage query understanding pipeline that resolves user queries into grounded concepts and scoped retrieval.
 - Product page: [openagistack.com](https://go.openagistack.com)
 
 ---
