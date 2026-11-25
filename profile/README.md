@@ -143,18 +143,6 @@ Every concept, rule, and fact pin is versioned. Models can change, but meaning n
 
 <div align="center">
 
-------------------------------------------------------------------------------------------------------------------------------------
-[![Open AGI Stack Semantic Intelligence](/assets/open-agi-stack-semantic-article.png)](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
-Read [https://www.openagistack.com/articles/open-agi-stack-semantic-article/](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
-------------------------------------------------------------------------------------------------------------------------------------
-[![OpenAGI banner-1](/assets/banner-1.png)](https://go.openagi.codes)
-------------------------------------------------------------------------------------------------------------------------------------
-[![OpenAGI banner-2](/assets/banner-2.png)](https://go.openagi.codes)
-------------------------------------------------------------------------------------------------------------------------------------
-[![OpenAGI banner-3](/assets/banner-3.png)](https://go.openagi.codes)
-------------------------------------------------------------------------------------------------------------------------------------
-
-
 **Open AGI Stack Semantics** · Semantic Intelligence for enterprise AI
 
 </div>
